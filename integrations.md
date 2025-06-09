@@ -1,3 +1,6 @@
+```markdown
+<!-- integrations.md -->
+
 \# Key Integrations & APIs
 
 | Function               | Service/Platform       | Notes & Alternatives                                  |  
