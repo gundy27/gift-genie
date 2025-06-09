@@ -1,3 +1,6 @@
+```markdown
+<!-- design-guidelines.md -->
+
 \# Design Guidelines
 
 \#\# 1\. Color Palette    
