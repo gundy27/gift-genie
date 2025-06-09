@@ -1,9 +1,8 @@
-```markdown
-#GiftEase Repository
+# GiftEase Repository
 
 Welcome to the GiftEase repository! This project contains the blueprints and implementation plans for the GiftEase application, designed to simplify gift giving for elderly users through a combination of a web dashboard and AI-driven SMS reminders.
 
-##Repository Structure
+## Repository Structure
 
 masterplan.md - High-level overview and objectives of the GiftEase application
 
@@ -17,7 +16,7 @@ integrations.md - Key third-party services and API integration details
 
 README.md - This file, providing an introduction and navigation to the repository files
 
-##Getting Started
+## Getting Started
 
 - Review the masterplan.md to understand the project vision and objectives.
 
@@ -27,11 +26,11 @@ README.md - This file, providing an introduction and navigation to the repositor
 
 - Refer to integrations.md for setting up API keys and configuring services.
 
-##Contribution
+## Contribution
 
 Contributions, issues, and feature requests are welcome! Please open an issue or submit a pull request.
 
-##License
+## License
 
 This project is licensed under the MIT License.
 
