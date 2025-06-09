@@ -1,3 +1,6 @@
+```markdown
+<!-- implementation-plan.md -->
+
 \# Implementation Plan & Scope
 
 \#\# MVP Scope    
