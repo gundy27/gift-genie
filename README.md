@@ -1,3 +1,4 @@
+```markdown
 #GiftEase Repository
 
 Welcome to the GiftEase repository! This project contains the blueprints and implementation plans for the GiftEase application, designed to simplify gift giving for elderly users through a combination of a web dashboard and AI-driven SMS reminders.
