@@ -1,3 +1,4 @@
+```markdown
 \<\!-- masterplan.md \--\>  
 \# GiftEase App Master Plan
 
